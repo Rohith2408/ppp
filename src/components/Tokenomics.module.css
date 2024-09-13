@@ -80,14 +80,14 @@
   }
   
   .frametitle{
-    font-family: var(--font-patrick-hand-SC);
+    font-family: var(--font-barrio);
     margin: 5px;
     box-sizing: border-box;
     color: white;
   }
   
   .framesubtitle{
-    font-family: var(--font-bangers);
+    font-family: var(--font-average);
     margin: 0;
     box-sizing: border-box;
     color: white;
