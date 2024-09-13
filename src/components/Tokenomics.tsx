@@ -7,7 +7,7 @@ import tax from '../images/Tokenomics/tax.png'
 
 export type MarvnomicsType = {
   className?: string;
-};
+}
 
 const Tokenomics: FunctionComponent<MarvnomicsType> = ({ className = "" }) => {
 
