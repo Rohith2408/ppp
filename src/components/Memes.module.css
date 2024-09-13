@@ -141,8 +141,8 @@
   @media screen and (min-width:1024px) and (max-width:1920px) {
 
     .mainwrapper{
-        max-height: 950px;
-        min-height: 900px;
+        max-height: 1000px;
+        min-height: 950px;
     }
 
     .body{
