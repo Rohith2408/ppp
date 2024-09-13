@@ -87,7 +87,7 @@
   }
   
   .framesubtitle{
-    font-family: var(--font-average);
+    font-family: var(--font-patrick-hand);
     margin: 0;
     box-sizing: border-box;
     color: white;
@@ -99,7 +99,7 @@
   }
 
   .description_text{
-    font-family: var(--font-barrio);
+    font-family: var(--font-patrick-hand);
     color: white;
     margin: 0px;
   }
