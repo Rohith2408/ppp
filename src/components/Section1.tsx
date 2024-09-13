@@ -14,8 +14,8 @@ import banner from '../images/banner.gif'
 const Section1=()=>{
 
     const socialIcons= useRef([
-        { src: telegram_icon, link: "https://t.me/CocaineBearTRX" },
-        { src: twitter_icon, link: "https://x.com/cbeartrx" },
+        { src: telegram_icon, link: "" },
+        { src: twitter_icon, link: "" },
         { src:dex_icon, link: "" },
         { src: dextools_icon, link: "" },
         { src:coingecko_icon, link: "" }
