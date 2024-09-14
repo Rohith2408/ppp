@@ -6,11 +6,12 @@ import image2 from '../images/Memes/2.png'
 import image3 from '../images/Memes/3.png'
 import image4 from '../images/Memes/4.png'
 import image5 from '../images/Memes/5.png'
+import image6 from '../images/Memes/6.png'
 import banner from '../images/banner.gif'
 
 const Memes=()=>{
 
-    const images=useRef([image1,image2,image3,image4,image5,image1]).current;
+    const images=useRef([image1,image2,image3,image4,image5,image6]).current;
     const [bannerHeight,setBannerHeight]=useState(0)
 
     return(
