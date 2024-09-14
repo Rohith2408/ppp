@@ -110,7 +110,13 @@
 
     .body{
         padding: 100px;
-        gap: 50px;
+        padding-top:75px;
+        gap:25px;
+    }
+
+    .banner{
+        top:92%;
+        height:75px;
     }
     
     .socialWrapper{
@@ -138,10 +144,6 @@
     .copyIcon{
         width: 20px;
         height: auto;
-    }
-
-    .banner{
-        top:92%
     }
 
     .title{
@@ -172,7 +174,13 @@
 
     .body{
         padding: 100px;
-        gap: 50px;
+        padding-top:100px;
+        gap:25px;
+    }
+
+    .banner{
+        top:92%;
+        height: 100px;
     }
     
     .socialWrapper{
@@ -202,10 +210,6 @@
         height: auto;
     }
 
-    .banner{
-        top:92%
-    }
-
     .title{
         font-size:60px;
         -webkit-text-stroke: 2px black;
@@ -233,7 +237,13 @@
 
     .body{
         padding: 100px;
-        gap: 50px;
+        padding-top:150px;
+        gap:25px;
+    }
+
+    .banner{
+        top:92%;
+        height: 150px;
     }
     
     .socialWrapper{
@@ -261,10 +271,6 @@
     .copyIcon{
         width: 40px;
         height: auto;
-    }
-
-    .banner{
-        top:92%
     }
 
     .title{
@@ -297,6 +303,17 @@
         padding: 100px;
         gap: 50px;
     }
+
+    .body{
+        padding: 100px;
+        padding-top:150px;
+        gap:25px;
+    }
+
+    .banner{
+        top:92%;
+        height: 150px;
+    }
     
     .socialWrapper{
         gap: 60px;
@@ -323,10 +340,6 @@
     .copyIcon{
         width: 50px;
         height: auto;
-    }
-
-    .banner{
-        top:92%
     }
 
     .title{
