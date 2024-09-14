@@ -18,7 +18,7 @@ const Section1=()=>{
         { src: twitter_icon, link: "" },
         { src:dex_icon, link: "" },
         { src: dextools_icon, link: "" },
-        { src:coingecko_icon, link: "" }
+        // { src:coingecko_icon, link: "" }
     ]).current;
     const [currentbg,setCurrentBg]=useState(0)
     const interval=useRef<any>()

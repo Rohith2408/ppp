@@ -19,7 +19,7 @@ const Tokenomics: FunctionComponent<MarvnomicsType> = ({ className = "" }) => {
           <div className={[styles.framescontainer, className].join(" ")}>
             <Framecontainer className={className} image={tax} title="Taxes" subTitle="0/0" border="linear-gradient(#FF8B8B, #AA5959)"></Framecontainer>
             <Framecontainer className={className} image={mint} title="Freeze & Mint" subTitle="Revoke" border="linear-gradient(#FAB989, #9F7557)"></Framecontainer>
-            <Framecontainer className={className} image={supply} title="Total Supply" subTitle="100M" border="linear-gradient(#579E96, #8AFBED)"></Framecontainer>
+            <Framecontainer className={className} image={supply} title="Total Supply" subTitle="1B" border="linear-gradient(#579E96, #8AFBED)"></Framecontainer>
             <Framecontainer className={className} image={liquidity} title="Liquidity" subTitle="Burned" border="linear-gradient(#897CB0, #C0AEF6)"></Framecontainer>
           </div>
           <div className={[styles.description, className].join(" ")}>
