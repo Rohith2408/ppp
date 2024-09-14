@@ -100,6 +100,7 @@
 
     .imageswrapper{
         grid-template-columns: 1fr 1fr 1fr;
+        gap: 10px;
     }
     
     .image{
@@ -116,8 +117,8 @@
   @media screen and (min-width:501px) and (max-width:1023px) {
 
     .mainwrapper{
-        max-height: 550px;
-        min-height:500px;
+        max-height:650px;
+        min-height:600px;
     }
 
     .body{
@@ -132,6 +133,7 @@
 
     .imageswrapper{
         grid-template-columns: 1fr 1fr 1fr;
+        gap: 30px;
     }
     
     .image{
@@ -164,6 +166,7 @@
 
     .imageswrapper{
         grid-template-columns: 1fr 1fr 1fr;
+        gap: 30px;
     }
     
     .image{
