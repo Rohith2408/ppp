@@ -14,10 +14,10 @@ import banner from '../images/banner.gif'
 const Section1=()=>{
 
     const socialIcons= useRef([
-        { src: telegram_icon, link: "" },
-        { src: twitter_icon, link: "" },
+        { src: telegram_icon, link: "https://t.me/ppponsolana" },
+        { src: twitter_icon, link: "https://x.com/ppp_on_solana" },
         { src:dex_icon, link: "" },
-        { src: dextools_icon, link: "" },
+        { src: dextools_icon, link: "https://www.dextools.io/app/en/solana/pair-explorer/7jeRDZ3NYUJty7XPm8sAm6Pa3JsL1ZsdpPHXjpPbZ3UF?t=1727212632525" },
         // { src:coingecko_icon, link: "" }
     ]).current;
     const [currentbg,setCurrentBg]=useState(0)
