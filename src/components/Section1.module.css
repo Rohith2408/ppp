@@ -96,6 +96,10 @@
     border: none;
   }
 
+  .ca{
+    max-width: 75%;
+  }
+
   @media screen and (max-width:500px) {
 
     .mainwrapper{
@@ -134,11 +138,11 @@
 
     .cawrapper{
         padding: 10px;
-        gap: 10px;
+        gap: 0px;
     }
 
     .caHeading,.ca{
-        font-size:12px;
+        font-size:9px;
     }
 
     .copyIcon{
@@ -202,7 +206,7 @@
     }
 
     .caHeading,.ca{
-        font-size:18px;
+        font-size:14px;
     }
 
     .copyIcon{
