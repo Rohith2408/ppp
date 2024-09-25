@@ -96,9 +96,9 @@
     border: none;
   }
 
-  .ca{
+  /* .ca{
     max-width: 75%;
-  }
+  } */
 
   @media screen and (max-width:500px) {
 
