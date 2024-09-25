@@ -18,7 +18,7 @@ const Section1=()=>{
         { src: twitter_icon, link: "https://x.com/ppp_on_solana" },
         { src:dex_icon, link: "" },
         { src: dextools_icon, link: "https://www.dextools.io/app/en/solana/pair-explorer/7jeRDZ3NYUJty7XPm8sAm6Pa3JsL1ZsdpPHXjpPbZ3UF?t=1727212632525" },
-        // { src:coingecko_icon, link: "" }
+        { src:coingecko_icon, link: "https://www.geckoterminal.com/solana/pools/7jeRDZ3NYUJty7XPm8sAm6Pa3JsL1ZsdpPHXjpPbZ3UF" }
     ]).current;
     const [currentbg,setCurrentBg]=useState(0)
     const interval=useRef<any>()
